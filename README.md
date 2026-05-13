@@ -57,7 +57,7 @@ The <a href="#">internal viewer</a> previews file content — text, image, and o
 ---
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/293408/m/mucommander-screenshot.png?v=1612425853" alt="muCommander screenshot 2"/>
+  <img src="https://i.ytimg.com/vi/qSmaoZx30_M/maxresdefault.jpg" alt="muCommander screenshot 2"/>
 </p>
 
 ## 🏢 Where It's Useful & Additional Information
